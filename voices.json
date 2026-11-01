@@ -9,6 +9,11 @@
   "version": "b3f78d76f256",
   "complete": false
  },
+ "hero": {
+  "bytes": 19572466,
+  "version": "a7cf0ca2bb40",
+  "complete": false
+ },
  "parrot": {
   "bytes": 20851139,
   "version": "3a381c250b07",
