@@ -1,7 +1,7 @@
 {
  "sara": {
-  "bytes": 18256394,
-  "version": "58a701104cf5",
+  "bytes": 18270346,
+  "version": "5b38e2c18759",
   "complete": false
  },
  "parrot": {
@@ -12,6 +12,11 @@
  "fairy": {
   "bytes": 21404452,
   "version": "584b92d41101",
+  "complete": false
+ },
+ "host": {
+  "bytes": 22050502,
+  "version": "5a552d65185b",
   "complete": false
  }
 }
