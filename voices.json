@@ -10,18 +10,18 @@
   "complete": false
  },
  "hero": {
-  "bytes": 19577368,
-  "version": "deb46b45a541",
+  "bytes": 20639767,
+  "version": "816bd9647507",
   "complete": false
  },
  "bunty": {
-  "bytes": 18453342,
-  "version": "d82471f46bda",
+  "bytes": 19630144,
+  "version": "8d5261b20dcd",
   "complete": false
  },
  "parrot": {
-  "bytes": 20854790,
-  "version": "5bba8fc01aa2",
+  "bytes": 21932805,
+  "version": "239843996d73",
   "complete": true
  },
  "fairy": {
